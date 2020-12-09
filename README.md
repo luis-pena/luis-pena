@@ -10,6 +10,6 @@ Hello, I'm Luis! 👋🏽 <br>
 :computer: Portfolio: https://luispena.org<br>
 :pencil: Resume: <a href="https://luispena.org/static/LuisPena-Resume.pdf">Luis Peña - Resume.pdf</a><br>
 :art: Design: https://www.behance.net/helloluiis<br>
-:briefcase: LinkedIn: https://linkedin.com/in/pena-luis<br>
+:briefcase: LinkedIn: https://linkedin.com/in/penaluis<br>
 :school: University of California, Santa Barbara<br>
 </samp>
