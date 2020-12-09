@@ -4,7 +4,7 @@
 <samp>
 Hello, I'm Luis! 👋🏽 <br>
 :briefcase: Software Engineer at <a href="https://dave.com" target="_blank">Dave.com</a><br>
-:sparkles: Favorite Tech: React/React Native, Typescript, Javascript, Next.js, Ruby on Rails<br>
+:sparkles: Favorite Tech: React/React Native, Typescript, Javascript, Next.js<br>
 :notebook: I’m currently learning Swift<br>
 :email:	 <a href="mailto:helloluiis@gmail.com">helloluiis@gmail.com</a></><br>
 :computer: Portfolio: https://luispena.org<br>
