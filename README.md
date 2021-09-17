@@ -8,7 +8,6 @@ Hello, I'm Luis! 👋🏽 <br>
 :books: I’m currently learning Swift and relearning Ruby<br>
 :email:	 <a href="mailto:helloluiis@gmail.com">helloluiis@gmail.com</a></><br>
 :computer: Portfolio: https://luispena.org<br>
-:pencil: Resume: <a href="https://luispena.org/static/LuisPena-Resume.pdf">Luis Peña - Resume.pdf</a><br>
 :art: Illustrations and Designs: https://www.behance.net/helloluiis<br>
 :briefcase: LinkedIn: https://linkedin.com/in/penaluis<br>
 :school: University of California, Santa Barbara<br>
