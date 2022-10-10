@@ -9,6 +9,6 @@ Hello, I'm Luis! 👋🏽 <br>
 :email:	 <a href="mailto:helloluiis@gmail.com">helloluiis@gmail.com</a></><br>
 :computer: Portfolio: https://luispena.org<br>
 :art: Illustrations and Designs: https://www.behance.net/helloluiis<br>
-:briefcase: LinkedIn: https://linkedin.com/in/penaluis<br>
+:briefcase: LinkedIn: https://linkedin.com/in/hello-luis<br>
 :school: University of California, Santa Barbara<br>
 </samp>
