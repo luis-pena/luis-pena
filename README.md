@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luis-pena/luis-pena/blob/main/assets/coffee.png?raw=true" width="400px">
+  <img src="https://github.com/luis-pena/luis-pena/blob/main/assets/coffee.png?raw=true" width="250px">
 </p>
 <samp>
 Hello, I'm Luis! 👋🏽 <br>
