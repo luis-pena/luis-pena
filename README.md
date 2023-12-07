@@ -3,12 +3,12 @@
 </p>
 <samp>
 Hello, I'm Luis! 👋🏽 <br>
-:briefcase: Software Engineer at <a href="https://dave.com" target="_blank">Dave.com</a><br>
-:sparkles: Favorite Tech: React/React Native, Typescript, Javascript, Ruby, Next.js<br>
-:books: I’m currently learning Swift and relearning Ruby<br>
-:email:	 <a href="mailto:helloluiis@gmail.com">helloluiis@gmail.com</a></><br>
-:computer: Portfolio: https://luispena.org<br>
-:art: Illustrations and Designs: https://www.behance.net/helloluiis<br>
-:briefcase: LinkedIn: https://linkedin.com/in/hello-luis<br>
-:school: University of California, Santa Barbara<br>
+👨🏽‍💻 Software Engineer at <a href="https://dave.com" target="_blank">Dave.com</a><br>
+✨ Favorite Tech: React/React Native, Typescript, Javascript, Ruby, Next.js<br>
+📚 I’m currently learning Swift and relearning Ruby<br>
+📧	 <a href="mailto:helloluiis@gmail.com">helloluiis@gmail.com</a></><br>
+💻 Portfolio: https://luispena.org<br>
+🎨 Illustrations and Designs: https://www.behance.net/helloluiis<br>
+💼 LinkedIn: https://linkedin.com/in/hello-luis<br>
+🏫 University of California, Santa Barbara<br>
 </samp>
